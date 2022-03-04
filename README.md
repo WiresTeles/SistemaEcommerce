@@ -6,6 +6,10 @@
 
 <br> 
 
+<p align="center">Validando a Senha por LocalStorage</p>
+
+<br> 
+
 <h1 align="center">
     <img alt="readme" title="Senha" src="./assets/senha.gif" />
 </h1>
