@@ -24,7 +24,6 @@ As seguintes ferramentas foram usadas na construção do Projeto:
 - [VSCode](https://code.visualstudio.com/)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [Via CEP - API utilizada](https://viacep.com.br/)
 
 ---
 
